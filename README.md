@@ -32,13 +32,13 @@ The following **optional** features are implemented:
 
 Please list two areas of the assignment you'd like to **discuss further with your peers** during the next class (examples include better ways to implement something, how to extend your app in certain ways, etc):
 
-1.
-2.
+1. better ways to organize complex data sets into sections.  
 
 ## Video Walkthrough
 
 Here's a walkthrough of implemented user stories:
 
+![yelp](https://cloud.githubusercontent.com/assets/3449724/19747816/ca0722b4-9b92-11e6-9ed6-f3807f579273.gif)
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 

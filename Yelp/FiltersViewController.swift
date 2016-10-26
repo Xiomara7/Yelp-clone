@@ -24,7 +24,7 @@ class FiltersViewController: UIViewController {
     
     var expanded = false
     var expandedSections: [[String]]!
-    var collapsedSections = ["", "Auto", "Best Match", "See All"]
+    var collapsedSections = ["Offering a Deal", "Auto", "Best Match", "See All"]
     
     override func viewDidLoad() {
         super.viewDidLoad()
@@ -33,7 +33,7 @@ class FiltersViewController: UIViewController {
         tableView.dataSource = self
         
         categories = yelpCategories()
-        expandedSections = [[],
+        expandedSections = [["Offering a Deal"],
                             ["Auto", "0.3 miles", "1 mile", "5 miles"],
                             ["Best Match", "Distance", "Highest Rated"]
         ]
